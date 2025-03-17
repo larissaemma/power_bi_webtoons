@@ -60,7 +60,7 @@ Webtoon is a dynamic platform that has transformed digital storytelling. With it
 
 ## 📌 Credits  
 - **Platform**: Webtoon (Naver)  
-- **Data Sources**: Webtoon app, official rankings, personal analysis  
+- **Data Sources**: Webtoon app  
 - **Tools Used**: Power BI, GitHub for visuals storage  
 
 ---
