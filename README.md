@@ -1,6 +1,4 @@
 # Webtoon Presentation  
-
-## Webtoon App Breakdown!  
 Webtoon is a South Korean platform for reading and publishing webcomics, known for its vertical scroll format optimized for mobile devices.  
 
 ## Overview  
