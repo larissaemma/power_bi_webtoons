@@ -35,7 +35,17 @@ Many Webtoon authors use **pen names** to maintain anonymity, possibly for priva
 ## 📷 Visuals  
 I’ve included four visuals representing different sections of my presentation in this repository.  
 
----
+## 📝 About Webtoon  
+![Webtoon About Page](visuals/Webtoon-About Page.png)  
+
+## 🎭 Webtoon Genres  
+![Webtoon Genre Page](visuals/Webtoon-Genre Page.png)  
+
+## 🌟 Webtoon Spotlight  
+![Webtoon Spotlight Page](visuals/Webtoon-Spotlight Page.png)  
+
+## 📆 Webtoon Weekly Publishing Trends  
+![Webtoon Weekdays Page](visuals/Webtoon-Weekdays Page.png)  
 
 ## ✅ Conclusion  
 Webtoon is a dynamic platform that has transformed digital storytelling. With its **mobile-friendly format, diverse genres, and interactive community**, it continues to be a favorite among readers and creators worldwide.  
