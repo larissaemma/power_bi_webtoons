@@ -54,8 +54,8 @@ Webtoon is a dynamic platform that has transformed digital storytelling. With it
 ## 🚀 To-Do / Future Improvements  
 - [ ] Expand analysis to include stories published multiple times a week.  
 - [ ] Add deeper insights into Webtoon’s monetization model.  
-- [ ] Explore engagement metrics beyond likes and views, such as comment interactions.  
-
+- [ ] Explore engagement trends beyond likes and views, such as comment interactions.
+- [ ] Explore more tools to fix the issue with displaying images and description boxes connected to the bar chart in the Spotlight tab.
 ---
 
 ## 📌 Credits  
